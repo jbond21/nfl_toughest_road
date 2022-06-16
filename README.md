@@ -2,7 +2,7 @@
 
 ## Project Description
 Apply machine learning model to determine which NFL team had the toughest and easiest opponents driven by statistical performance only. 
-The model takes in individual team statistics per game for over 20 years and produces results based on predicting wins and losses measured by the optimal stat threshold
+The model takes in individual team statistics per game for over 20 years and produces results based on predicting wins and losses measured by the optimal stat threshold. My Motivation is to test my abilites to analysis a sport I grew up watching and produce an interesting finding that might go unnoticed by the NFL itself.
 
 
 ### Installations

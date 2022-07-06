@@ -109,90 +109,106 @@ The last line of code is a the function called team_report that requires the tea
 
 ## Teams that Played the Most Difficult Games in the past 20 years. Outcome: Win or Lose
 ### Top 10 Teams
-- Jaguars: 205 games.
-- Browns: 201 games.
-- Raiders: 197 games.
-- Jets: 187 games.
-- Colts: 186 games.
-- Lions: 185 games.
-- Rams: 183 games.
-- Texans: 181 games.
-- Dolphins: 180 games.
-- Washington: 176 games.
+1. Jaguars tough_games count: 205
+2. Browns tough_games count: 201
+3. Raiders tough_games count: 197
+4. Jets tough_games count: 187
+5. Colts tough_games count: 186
+6. Lions tough_games count: 185
+7. Rams tough_games count: 183
+8. Texans tough_games count: 181
+9. Dolphins tough_games count: 180
+10. Washington tough_games count: 176
 
 
 ## Teams that Played the Most Difficult Games in the past 20 years. Outcome: Win
 ### Top 10 Teams
-- Colts: 65 games.
-- Patriots: 55 games.
-- Cowboys: 37 games.
-- Chiefs: 34 games.
-- Seahawks: 33 games.
-- Saints: 32 games.
-- Packers: 31 games.
-- Eagles: 31 games.
-- Chargers: 31 games.
-- Broncos: 30 games.
+1. Colts won_tough_game count: 65
+2. Patriots won_tough_game count: 55
+3. Cowboys won_tough_game count: 37
+4. Chiefs won_tough_game count: 34
+5. Seahawks won_tough_game count: 33
+6. Saints won_tough_game count: 32
+7. Packers won_tough_game count: 31
+7. Eagles won_tough_game count: 31
+7. Chargers won_tough_game count: 31
+8. Broncos won_tough_game count: 30
+9. Dolphins won_tough_game count: 28
+9. Ravens won_tough_game count: 28
+10. Titans won_tough_game count: 27
+10. Falcons won_tough_game count: 27
 
 
 ## Teams that Played the Most Difficult Games in the past 20 years. Outcome: Loss
 ### Top 10 Teams
-- Jaguars: 184 games.
-- Browns: 181 games.
-- Raiders: 172 games.
-- Jets: 163 games.
-- Texans: 163 games. 
-- Lions: 163 games.
-- Washington: 163 games. 
-- Rams: 160 games.
-- Buccaneers: 152 games.
-- Dolphins: 152 games.  
+1. Jaguars loss_tough_game count: 184
+2. Browns loss_tough_game count: 181
+3. Raiders loss_tough_game count: 172
+4. Jets loss_tough_game count: 163
+4. Texans loss_tough_game count: 163
+4. Lions loss_tough_game count: 163
+4. Washington loss_tough_game count: 163
+5. Rams loss_tough_game count: 160
+6. Buccaneers loss_tough_game count: 152
+6. Dolphins loss_tough_game count: 152
+7. Bengals loss_tough_game count: 151
+8. 49ers loss_tough_game count: 150
+9. Bills loss_tough_game count: 148
+9. Cardinals loss_tough_game count: 148
+10. Giants loss_tough_game count: 146
 
 
 ## Teams that Played the Easiest Games in the past 20 years. Outcome: Win or Lose
 ### Top 10 Teams
-- Patriots: 225 games.
-- Steelers: 223 games.
-- Ravens: 209 games.
-- Packers: 209 games.
-- Seahawks: 186 games.
-- Eagles: 185 games.
-- Chiefs: 184 games.
-- Vikings: 183 games.
-- Chargers: 183 games.
-- Tied
-- Panthers: 179 games.
-- Saints: 179 games.
+1. Patriots easy_games count: 225
+2. Steelers easy_games count: 223
+3. Ravens easy_games count: 209
+3. Packers easy_games count: 209
+4. Seahawks easy_games count: 186
+5. Eagles easy_games count: 185
+6. Chiefs easy_games count: 184
+7. Vikings easy_games count: 183
+7. Chargers easy_games count: 183
+8. Panthers easy_games count: 179
+8. Saints easy_games count: 179
+9. Broncos easy_games count: 176
+10. Cowboys easy_games count: 175
+
 
 
 ## Teams that Played the Easiest Games in the past 20 years. Outcome: Win
 ### Top 10 Teams
-- Patriots: 210 games.
-- Steelers: 196 games.
-- Packers: 184 games.
-- Ravens: 170 games.
-- Seahawks: 167 games.
-- Saints: 164 games.
-- Eagles: 161 games.
-- Chiefs: 154 games.
-- Broncos: 152 games.
-- Colts: 149 games.
+1. Patriots won_easy_game count: 210
+2. Steelers won_easy_game count: 196
+3. Packers won_easy_game count: 184
+4. Ravens won_easy_game count: 170
+5. Seahawks won_easy_game count: 167
+6. Saints won_easy_game count: 164
+7. Eagles won_easy_game count: 161
+8. Chiefs won_easy_game count: 154
+9. Broncos won_easy_game count: 152
+10. Colts won_easy_game count: 149
 
 
 
 ## Teams that Played the Easiest Games in the past 20 years. Outcome: Loss
 ### Top 10 Teams
-- Lions: 48 games.
-- Ravens: 39 games.
-- Vikings: 38 games.
-- Chargers: 37 games. 
-- Bears: 34 games.
-- Browns: 33 games. 
-- Cowboys: 33 games.
-- Washington: 32 games. 
-- Panthers: 32 games.
-- Tied
-- Giants: 31 games.
-- Raiders: 31 games
+1. Lions loss_easy_game count: 48
+2. Ravens loss_easy_game count: 39
+3. Vikings loss_easy_game count: 38
+4. Chargers loss_easy_game count: 37
+5. Bears loss_easy_game count: 34
+6. Browns loss_easy_game count: 33
+6. Cowboys loss_easy_game count: 33
+7. Washington loss_easy_game count: 32
+7. Panthers loss_easy_game count: 32
+8. Giants loss_easy_game count: 31
+8. Raiders loss_easy_game count: 31
+9. Titans loss_easy_game count: 30
+9. 49ers loss_easy_game count: 30
+9. Chiefs loss_easy_game count: 30
+9. Cardinals loss_easy_game count: 30
+10. Buccaneers loss_easy_game count: 28
+10. Jets loss_easy_game count: 28
 
 
